@@ -4,7 +4,7 @@
 This project aims to predict job failures in cloud computing environments, enabling proactive resource management and minimizing operational costs. By leveraging machine learning models, we address the critical issue of cloud resource optimization while handling the challenges of imbalanced datasets.
 
 ## Problem Statement
-Cloud architectures often face challenges with job failures, which can lead to increased queue sizes, delayed dependent jobs, and reduced overall efficiency. Current solutions rely on passive approaches like redundancy and load balancing, which increase operational costs. Our objective is to develop predictive models that identify potential failures early, allowing for timely rescheduling or termination of problematic jobs.
+Cloud architectures often face challenges with job failures, which can lead to increased queue sizes, delayed dependent jobs, and reduced overall efficiency. Current solutions rely on passive approaches like redundancy and load balancing, which increase operational costs. The objective is to develop predictive models that identify potential failures early, allowing for timely rescheduling or termination of problematic jobs.
 
 ## Key Features
 - **Dataset**: Google Cluster Trace 2011 dataset, processed into combined tables from job, task event, and task usage data.
